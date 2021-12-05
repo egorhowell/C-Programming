@@ -1,6 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+/* This code finds the determinant of a 2x2 matrix */
+
 int main(){
 
 	double array[2][2] = {
